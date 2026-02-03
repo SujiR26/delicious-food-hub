@@ -18,4 +18,4 @@ Delicious Food Hub is a responsive food shop website built using HTML and CSS.
 This project was created as a frontend practice project for freshers to understand layout, styling, and responsiveness.
 
 ## Live Demo
-(Add your live website link here)
+https://sujir26.github.io/delicious-food-hub/
